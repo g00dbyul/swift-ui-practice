@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2062CAB82983A0CA005996C2 /* swift_ui_alertApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2062CAB72983A0CA005996C2 /* swift_ui_alertApp.swift */; };
+		2062CAB82983A0CA005996C2 /* swift_ui_practiceApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2062CAB72983A0CA005996C2 /* swift_ui_practiceApp.swift */; };
 		2062CABA2983A0CA005996C2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2062CAB92983A0CA005996C2 /* ContentView.swift */; };
 		2062CABC2983A0CB005996C2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2062CABB2983A0CB005996C2 /* Assets.xcassets */; };
 		2062CABF2983A0CB005996C2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2062CABE2983A0CB005996C2 /* Preview Assets.xcassets */; };
@@ -35,7 +35,7 @@
 
 /* Begin PBXFileReference section */
 		2062CAB42983A0CA005996C2 /* swift-ui-alert.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "swift-ui-alert.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2062CAB72983A0CA005996C2 /* swift_ui_alertApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_ui_alertApp.swift; sourceTree = "<group>"; };
+		2062CAB72983A0CA005996C2 /* swift_ui_practiceApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_ui_practiceApp.swift; sourceTree = "<group>"; };
 		2062CAB92983A0CA005996C2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2062CABB2983A0CB005996C2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2062CABE2983A0CB005996C2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -74,7 +74,7 @@
 		2062CAAB2983A0CA005996C2 = {
 			isa = PBXGroup;
 			children = (
-				2062CAB62983A0CA005996C2 /* swift-ui-alert */,
+				2062CAB62983A0CA005996C2 /* swift-ui-practice */,
 				2062CAC72983A0CB005996C2 /* swift-ui-alertTests */,
 				2062CAD12983A0CC005996C2 /* swift-ui-alertUITests */,
 				2062CAB52983A0CA005996C2 /* Products */,
@@ -91,15 +91,15 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		2062CAB62983A0CA005996C2 /* swift-ui-alert */ = {
+		2062CAB62983A0CA005996C2 /* swift-ui-practice */ = {
 			isa = PBXGroup;
 			children = (
-				2062CAB72983A0CA005996C2 /* swift_ui_alertApp.swift */,
+				2062CAB72983A0CA005996C2 /* swift_ui_practiceApp.swift */,
 				2062CAB92983A0CA005996C2 /* ContentView.swift */,
 				2062CABB2983A0CB005996C2 /* Assets.xcassets */,
 				2062CABD2983A0CB005996C2 /* Preview Content */,
 			);
-			path = "swift-ui-alert";
+			path = "swift-ui-practice";
 			sourceTree = "<group>";
 		};
 		2062CABD2983A0CB005996C2 /* Preview Content */ = {
@@ -258,7 +258,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2062CABA2983A0CA005996C2 /* ContentView.swift in Sources */,
-				2062CAB82983A0CA005996C2 /* swift_ui_alertApp.swift in Sources */,
+				2062CAB82983A0CA005996C2 /* swift_ui_practiceApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
